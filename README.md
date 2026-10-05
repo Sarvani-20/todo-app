@@ -2,6 +2,7 @@
 
 A full-stack todo app. The frontend is React (Vite), the backend is Node + Express, and data is stored in MongoDB Atlas.
 
+
 ## Goals
 
 By the end, your app should:
